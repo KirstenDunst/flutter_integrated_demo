@@ -1,0 +1,16 @@
+//
+//  SceneDelegate.h
+//  MyApp
+//
+//  Created by Destiny on 2019/12/10.
+//  Copyright © 2019 Destiny. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+

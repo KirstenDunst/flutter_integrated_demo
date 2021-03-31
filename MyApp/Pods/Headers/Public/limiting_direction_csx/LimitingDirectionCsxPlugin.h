@@ -1,0 +1,1 @@
+../../../../../flutter_module/.ios/.symlinks/plugins/limiting_direction_csx/ios/Classes/LimitingDirectionCsxPlugin.h

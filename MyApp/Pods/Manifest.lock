@@ -1,0 +1,56 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Flutter (1.0.0)
+  - flutter_module (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - limiting_direction_csx
+  - limiting_direction_csx (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - Flutter (from `../flutter_module/.ios/Flutter/engine`)
+  - flutter_module (from `../flutter_module/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `../flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - limiting_direction_csx (from `../flutter_module/.ios/.symlinks/plugins/limiting_direction_csx/ios`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../flutter_module/.ios/Flutter/engine"
+  flutter_module:
+    :path: "../flutter_module/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "../flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+  limiting_direction_csx:
+    :path: "../flutter_module/.ios/.symlinks/plugins/limiting_direction_csx/ios"
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Flutter: ac41d61a47ae5bf8195a5598d2d63754888ec0d5
+  flutter_module: d1e1ff44505640bd9aa37f23f63380c646272be4
+  FlutterPluginRegistrant: bee49c1ad5c058c59f19e511272c61570722444e
+  limiting_direction_csx: be69e2816869ea0e3524160e1ecf95137df43a2f
+
+PODFILE CHECKSUM: bbb44c29322708492e6d9ce752d5635dc0a1cbfb
+
+COCOAPODS: 1.10.1

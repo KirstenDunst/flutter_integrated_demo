@@ -1,0 +1,26 @@
+{
+  "name": "limiting_direction_csx",
+  "version": "0.0.1",
+  "summary": "限制屏幕旋转方位.",
+  "description": "限制屏幕旋转方位，需要在info.plist中设置包含此方位才可以..",
+  "homepage": "https://github.com/KirstenDunst/LimitingDirection",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "BrainCo": "cao_shixin@126.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}
