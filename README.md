@@ -1,0 +1,2 @@
+# flutter_integrated_demo
+一个iOS，flutter混合开发引入插件找不到方法的解决示例
